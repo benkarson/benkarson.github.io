@@ -1,0 +1,13 @@
+body {
+	background-color: orange;
+
+}
+
+#about {
+	min-height: 600px;
+	background-image: url("../images/will.jpg");
+	background-size: cover;
+}
+.showcase {
+	min-height: 500px;
+}
